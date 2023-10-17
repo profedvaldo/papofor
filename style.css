@@ -7,7 +7,7 @@ body {
     background-color: black;
 }
 
-.titulo{
+#titulo{
     color: white;
     font-style: italic;
 }
