@@ -8,3 +8,13 @@ body {
 h1 {
     color: blue;
 }
+.titulo{
+    color: blue;
+    font-style: italic;
+}
+.p1{
+    color: blue;
+}
+.p2{
+    color: limegreen;
+}
