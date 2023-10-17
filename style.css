@@ -6,6 +6,12 @@ body {
     font-size: 20px;
     background-color: black;
 }
+img {
+    background-color: white;
+    padding: 10px;
+    max-width: 70%;
+    max-height: 70%;
+}
 
 #titulo{
     color: white;
