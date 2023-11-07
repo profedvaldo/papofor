@@ -6,9 +6,10 @@ body {
     font-size: 20px;
     background-color: black;
 }
-img {
+#banner {
     background-color: white;
     padding: 10px;
+    margin: 10px;
     max-width: 70%;
     max-height: 70%;
 }
