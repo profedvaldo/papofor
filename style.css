@@ -31,3 +31,11 @@ body {
 #conteudo{
     background-color: blue;
 }
+.div-banner{
+    max-width: 49%;
+}
+.div-texto{
+    max-width: 49%;
+    display: flex;
+    justify-content: flex-start;
+}
