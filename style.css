@@ -36,6 +36,8 @@ body {
 }
 .div-banner{
     max-width: 20%;
+    display: flex;
+    justify-content: flex-start;
 }
 .div-texto{
     min-width: 30%;
