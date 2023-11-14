@@ -25,9 +25,9 @@ body {
 .p2{
     color: limegreen;
 }
-.superior{
+#superior{
     background-color: red;
 }
-.conteudo{
+.div-texto{
     background-color: blue;
 }
