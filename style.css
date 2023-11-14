@@ -35,9 +35,8 @@ body {
     background-color: green;
 }
 .div-banner{
-    max-width: 20%;
-    display: flex;
-    justify-content: flex-start;
+    max-width: 50%;
+
 }
 .div-texto{
     min-width: 30%;
