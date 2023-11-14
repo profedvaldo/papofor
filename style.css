@@ -31,6 +31,9 @@ body {
 #conteudo{
     background-color: blue;
 }
+#lista{
+    background-color: green;
+}
 .div-banner{
     max-width: 49%;
 }
