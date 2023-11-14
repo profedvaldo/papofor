@@ -38,7 +38,7 @@ body {
     max-width: 30%;
 }
 .div-texto{
-    max-width: 30%;
+    min-width: 30%;
     display: flex;
     justify-content: flex-start;
 }
