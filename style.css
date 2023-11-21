@@ -45,5 +45,6 @@ body {
     border-bottom:20px solid whitesmoke;
     padding: 10%;
     background-color: silver;
-    
+    font-size: 32px;
+    color: black;
 }
