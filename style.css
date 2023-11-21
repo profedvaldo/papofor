@@ -14,7 +14,7 @@ body {
     max-width: 70%;
     max-height: 70%;
     align-self: auto;
-    border: white 10% solid;
+   
     border-radius: 2%;
 }
 
@@ -22,7 +22,8 @@ body {
     color: white;
     font-style: italic;
     border-radius: 10%;
-    border: 2% solid;
+    border: 10% solid;
+ 
 }
 .p1{
     color: yellow;
