@@ -41,3 +41,6 @@ body {
     display: flex;
     justify-content: flex-start;
 }
+#papofor{
+    border-bottom:2px whitesmoke;
+}
