@@ -21,6 +21,8 @@ body {
 #titulo{
     color: white;
     font-style: italic;
+    border-radius: 10%;
+    border: 2% solid;
 }
 .p1{
     color: yellow;
